@@ -68,11 +68,15 @@ EDA와 데이터 시각화는 구별해서 생각할 필요 있음. EDA 단계�
 >
 > > **인증 예시 : 통계 프로그램 결과, 시각화 이미지 캡처 등**
 
-[실습1](https://github.com/HEEJU21/asset/blob/main/%EC%8B%A4%EC%8A%B51.png)
-[실습2]
-[실습3]
-[실습4]
-[실습5]
+![실습1](https://github.com/HEEJU21/asset/blob/main/%EC%8B%A4%EC%8A%B51.png)
+
+![실습2](https://github.com/HEEJU21/asset/blob/main/%EC%8B%A4%EC%8A%B52.png)
+
+![실습3](https://github.com/HEEJU21/asset/blob/main/%EC%8B%A4%EC%8A%B53.png)
+
+![실습4](https://github.com/HEEJU21/asset/blob/main/%EC%8B%A4%EC%8A%B54.png)
+
+![실습5](https://github.com/HEEJU21/asset/blob/main/%EC%8B%A4%EC%8A%B55.png)
 
 ~~~
 인증 이미지가 없으면 과제 수행으로 인정되지 않습니다.
